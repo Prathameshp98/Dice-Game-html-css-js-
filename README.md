@@ -1,1 +1,1 @@
-# Dice-Game-html-css-js-
+# Dice-Game
